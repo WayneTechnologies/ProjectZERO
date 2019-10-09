@@ -1,2 +1,2 @@
 # ProjectZERO
-The begining of our journy
+The begining of our journey
